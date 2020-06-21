@@ -1,0 +1,112 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu May 28 21:13:53 2020
+[*]
+[dumpfile] "/home/rik/Documents/Softcore/picorv32/SpinalTemplateSbt/simWorkspace/MyTopLevel/test.vcd"
+[dumpfile_mtime] "Thu May 28 21:13:44 2020"
+[dumpfile_size] 53699963
+[savefile] "/home/rik/Documents/Softcore/picorv32/SpinalTemplateSbt/signals.gtkw"
+[timestart] 0
+[size] 2560 1385
+[pos] -1 -1
+*-17.000000 408000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.MyTopLevel.
+[treeopen] TOP.MyTopLevel.picorv.
+[treeopen] TOP.MyTopLevel.picorv.picorv.
+[treeopen] TOP.MyTopLevel.picorv.picorv.picorv32_core.
+[treeopen] TOP.MyTopLevel.WBTimer.
+[treeopen] TOP.MyTopLevel.WBUart.
+[treeopen] TOP.MyTopLevel.WBUart.uartCtrl_1_.
+[sst_width] 326
+[signals_width] 569
+[sst_expanded] 1
+[sst_vpaned_height] 414
+@28
+TOP.MyTopLevel.picorv.picorv.wb_clk_i
+TOP.MyTopLevel.picorv.picorv.wb_rst_i
+@22
+TOP.MyTopLevel.picorv.picorv.wbm_adr_o[31:0]
+@28
+TOP.MyTopLevel.picorv.picorv.wbm_cyc_o
+@c00022
+TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+@28
+(0)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(1)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(2)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(3)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(4)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(5)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(6)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(7)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(8)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(9)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(10)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(11)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(12)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(13)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(14)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(15)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(16)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(17)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(18)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(19)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(20)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(21)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(22)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(23)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(24)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(25)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(26)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(27)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(28)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(29)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(30)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+(31)TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+@1401200
+-group_end
+@22
+TOP.MyTopLevel.picorv.picorv.wbm_dat_o[31:0]
+TOP.MyTopLevel.picorv.picorv.wbm_sel_o[3:0]
+@28
+TOP.MyTopLevel.picorv.picorv.wbm_stb_o
+TOP.MyTopLevel.picorv.picorv.wbm_we_o
+@820
+TOP.MyTopLevel.picorv.picorv.picorv32_core.dbg_ascii_instr[63:0]
+TOP.MyTopLevel.picorv.picorv.picorv32_core.dbg_ascii_state[127:0]
+@22
+TOP.MyTopLevel.picorv.picorv.picorv32_core.dbg_insn_rs1[4:0]
+TOP.MyTopLevel.picorv.picorv.picorv32_core.dbg_insn_rs2[4:0]
+TOP.MyTopLevel.picorv.picorv.picorv32_core.dbg_insn_rd[4:0]
+@24
+TOP.MyTopLevel.WBrom.addrNoOffset[29:0]
+@28
+TOP.MyTopLevel.WBtest.io_updateOut
+@820
+TOP.MyTopLevel.WBtest.io_charOut[7:0]
+TOP.MyTopLevel.WBUart.uartCtrl_1_.tx.stateMachine_state_string[47:0]
+@28
+TOP.MyTopLevel.WBUart.uartCtrl_1_.tx.io_write_valid
+TOP.MyTopLevel.WBUart.uartDataToWrite
+TOP.MyTopLevel.WBUart.uartCtrl_1_.io_readBreak
+TOP.MyTopLevel.WBUart.io_uart_rxd
+TOP.MyTopLevel.WBUart.io_uart_txd
+TOP.MyTopLevel.WBUart.uartCtrl_1_.rx.break_valid
+TOP.MyTopLevel.WBUart.uartCtrl_1__io_read_valid
+@22
+TOP.MyTopLevel.WBUart.uartCtrl_1__io_read_payload[7:0]
+@28
+TOP.MyTopLevel.WBUart.uartDataAvailable
+@22
+TOP.MyTopLevel.WBUart.uartDataRead[7:0]
+TOP.MyTopLevel.picorv.picorv.wbm_dat_i[31:0]
+@24
+TOP.MyTopLevel.WBUart.clockDivReg[15:0]
+@28
+TOP.MyTopLevel.WBUart.io_uart_txd
+TOP.MyTopLevel.WBUart.io_uart_rxd
+@821
+TOP.MyTopLevel.WBUart.uartWriteData[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

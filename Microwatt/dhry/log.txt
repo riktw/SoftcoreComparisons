@@ -1,0 +1,3 @@
+2020/05/15 10:48:52 Micro started
+2020/05/15 10:49:07 hello_world.c console.h
+2020/05/15 10:49:07 hello_world.c console.h
